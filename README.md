@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm NarenRawat! 👋
 
-<!--
-**NarenRawat/NarenRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **student** who loves programming and is passionate about building things with code.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Python**
+- **C**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- I’m constantly learning new technologies and sharpening my coding skills.
+- Programming is not just a skill—it's my favorite hobby!
+- I enjoy tackling challenges and collaborating on projects.
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/narendra-singh-rawat-b64bab363)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Feel free to check out my repos and connect!
